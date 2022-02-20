@@ -1,0 +1,138 @@
+.k-icon {
+  width: 40px;
+  margin-right: 10px;
+}
+.fs-4 {
+  font-weight: bold;
+  font-size: 2rem !important;
+  font-family: Georgia, serif;
+  margin-right: 15px;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 1.5em;
+  right: -3em;
+  font-family: Georgia, serif;
+}
+.super-title {
+  font-style: oblique;
+  font-weight: 1000;
+  color: rgb(4, 121, 189);
+  font-size: 3em;
+}
+.navbar-light .navbar-brand {
+  color: rgba(0, 102, 255, 0.938);
+}
+.navbar-light .navbar-brand:hover {
+  color: rgba(0, 102, 255, 0.938);
+}
+.nav-title {
+  font-size: 20px;
+  margin-right: 50px;
+}
+.nav-title:hover {
+  text-decoration: underline;
+}
+
+.btn-outline-success {
+  color: skyblue;
+  border-color: skyblue;
+}
+.btn-outline-success:hover {
+  color: skyblue;
+  border-color: skyblue;
+  background-color: rgb(215, 234, 250);
+}
+.info-image {
+  border: 1px solid black;
+}
+
+.card-icon {
+  height: 200px;
+}
+.p-margin {
+  margin-bottom: 30px;
+}
+
+.total-box {
+  display: flex;
+}
+.first-box {
+  margin-bottom: 20px;
+}
+.second-man {
+  height: 300px;
+  border-radius: 10%;
+  border: 3px solid skyblue;
+}
+.second-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.first-first-box {
+  height: 150px;
+}
+
+.first-second-box {
+  background-color: yellow;
+  height: 150px;
+}
+
+.button-group {
+  height: 110px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-img {
+  height: 150px;
+}
+.card-text2,
+.card-text {
+  color: white;
+  font-weight: bold;
+}
+
+.foot-background {
+  background-color: bisque;
+
+  color: black;
+}
+
+.first-line {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.row {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.second-line {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.row a {
+  text-decoration: none;
+  color: black;
+}
+.row a:hover {
+  text-decoration: underline;
+}
+
+.address {
+  border-bottom: 1px solid #d39118;
+  border-top: 1px solid #d39118;
+}
+
+@media screen and (max-width: 48rem) {
+  .first-line {
+    text-align: center;
+  }
+}
